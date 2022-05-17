@@ -1,5 +1,5 @@
 # Watches Website | NUYsDev ⌚
-## [Preview](https://youtu.be/QPxYdbbCjhQ) | [UI Design](https://youtu.be/QPxYdbbCjhQ)
+## [Preview](https://rhr3032.github.io/Watches-Website/) | [UI Design](https://www.behance.net/gallery/143949799/Watches-Website-UI-Design) 
 
 
 ### Watches Website ⌚
